@@ -1,0 +1,7 @@
+This file is part of <Software Name>.
+
+Copyright <Years of File Edits>, <Copyright Holder>.
+All Rights Reserved.
+
+This software is provided under the terms of the Chillbot Social License, version
+0.1.0. The full text of the license is distributed along with this file.
